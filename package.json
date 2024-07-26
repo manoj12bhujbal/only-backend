@@ -1,0 +1,15 @@
+{
+  "name": "only-backend",
+  "version": "1.0.0",
+  "description": "only backend is here",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "author": "manoj",
+  "license": "ISC"
+}
